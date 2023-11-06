@@ -66,7 +66,7 @@ header a:hover {
 	border: 4px solid #343deb; /* Blauen rahmen*/
 	border-radius: 50%;}	/*Bild runden*/
 
-.text-animation {
+.text-animation { 
     color: transparent;
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@ header a:hover {
     background: url(background.png);
     -webkit-background-clip: text;
     background-position: 0 0;
-    animation: back 3s linear infinite;
+    animation: back 5s linear infinite;
 }
 @keyframes back {
     0%{
