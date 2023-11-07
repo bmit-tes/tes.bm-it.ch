@@ -1,6 +1,6 @@
 /* Style.css */
 
-.intro {
+.intro {                    
 	position: fixed;
 	z-index: 1;
 	left: 0;
@@ -9,6 +9,7 @@
 	height: 100vh;
 	background-color: black;
 	transition: 1s;}
+
 
 .logo-header{
 	position: absolute;
