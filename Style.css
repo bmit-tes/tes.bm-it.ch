@@ -49,13 +49,13 @@ body {
 header {
     background-color: #343deb;
     color: white;
-    padding: 10px 0;
+    padding: 3vh 0;
 	text-align: center;}
 
 header a {
 	color: white;
     text-decoration: none;
-    margin: 0 15px;}
+    margin: 0 10vh;}
 
 header a:hover {
     text-decoration: underline;}
@@ -131,7 +131,7 @@ p1{ font-size: 18px;
 
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 1vh;
     background-color: black;
     color: white;}
 
